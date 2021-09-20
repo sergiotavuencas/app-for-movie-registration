@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "app-for-movie-registration/1.0.0": {
+        "runtime": {
+          "app-for-movie-registration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "app-for-movie-registration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

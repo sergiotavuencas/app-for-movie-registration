@@ -1,0 +1,13 @@
+D:\cursos\dio\decola tech\03 - criando um app simples de cadastro de séries em .net\app-for-movie-registration\bin\Debug\netcoreapp3.1\app-for-movie-registration.exe
+D:\cursos\dio\decola tech\03 - criando um app simples de cadastro de séries em .net\app-for-movie-registration\bin\Debug\netcoreapp3.1\app-for-movie-registration.deps.json
+D:\cursos\dio\decola tech\03 - criando um app simples de cadastro de séries em .net\app-for-movie-registration\bin\Debug\netcoreapp3.1\app-for-movie-registration.runtimeconfig.json
+D:\cursos\dio\decola tech\03 - criando um app simples de cadastro de séries em .net\app-for-movie-registration\bin\Debug\netcoreapp3.1\app-for-movie-registration.runtimeconfig.dev.json
+D:\cursos\dio\decola tech\03 - criando um app simples de cadastro de séries em .net\app-for-movie-registration\bin\Debug\netcoreapp3.1\app-for-movie-registration.dll
+D:\cursos\dio\decola tech\03 - criando um app simples de cadastro de séries em .net\app-for-movie-registration\bin\Debug\netcoreapp3.1\app-for-movie-registration.pdb
+D:\cursos\dio\decola tech\03 - criando um app simples de cadastro de séries em .net\app-for-movie-registration\obj\Debug\netcoreapp3.1\app-for-movie-registration.csprojAssemblyReference.cache
+D:\cursos\dio\decola tech\03 - criando um app simples de cadastro de séries em .net\app-for-movie-registration\obj\Debug\netcoreapp3.1\app-for-movie-registration.AssemblyInfoInputs.cache
+D:\cursos\dio\decola tech\03 - criando um app simples de cadastro de séries em .net\app-for-movie-registration\obj\Debug\netcoreapp3.1\app-for-movie-registration.AssemblyInfo.cs
+D:\cursos\dio\decola tech\03 - criando um app simples de cadastro de séries em .net\app-for-movie-registration\obj\Debug\netcoreapp3.1\app-for-movie-registration.csproj.CoreCompileInputs.cache
+D:\cursos\dio\decola tech\03 - criando um app simples de cadastro de séries em .net\app-for-movie-registration\obj\Debug\netcoreapp3.1\app-for-movie-registration.dll
+D:\cursos\dio\decola tech\03 - criando um app simples de cadastro de séries em .net\app-for-movie-registration\obj\Debug\netcoreapp3.1\app-for-movie-registration.pdb
+D:\cursos\dio\decola tech\03 - criando um app simples de cadastro de séries em .net\app-for-movie-registration\obj\Debug\netcoreapp3.1\app-for-movie-registration.genruntimeconfig.cache
