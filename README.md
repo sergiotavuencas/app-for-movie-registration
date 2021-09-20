@@ -1,4 +1,4 @@
-# App for Movie Registration
+# Console App for Movie Registration
 
 ## About
 This project was developed during Decola Tech Bootcamp by DIO (Digital Innovation One), taught by [Eliézer Zarpelão](https://github.com/elizarp).
